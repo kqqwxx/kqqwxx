@@ -1,13 +1,13 @@
 {
- "key": "65a3f4d9",
+ "key": "dc85685b",
  "stars": 0,
- "contributions": 11,
+ "contributions": 12,
  "repos": 2,
  "followers": 0,
  "languages": [
   [
    "QML",
-   2021024
+   2030019
   ],
   [
    "JavaScript",
@@ -15,23 +15,11 @@
   ],
   [
    "Python",
-   106567
-  ],
-  [
-   "CSS",
-   48814
-  ],
-  [
-   "Lua",
-   48067
+   70780
   ],
   [
    "GLSL",
-   32967
-  ],
-  [
-   "SCSS",
-   3158
+   2774
   ]
  ],
  "days": [
@@ -118,9 +106,13 @@
    {
     "c": 5,
     "day": 16,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 17,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -128,8 +120,8 @@
   ]
  ],
  "streak": {
-  "current": 3,
-  "longest": 3
+  "current": 4,
+  "longest": 4
  },
  "pins": [],
  "all": [
