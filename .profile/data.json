@@ -1,27 +1,10 @@
 {
- "key": "dc85685b",
+ "key": "3e815955",
  "stars": 0,
- "contributions": 12,
- "repos": 2,
+ "contributions": 7,
+ "repos": 1,
  "followers": 0,
- "languages": [
-  [
-   "QML",
-   2030019
-  ],
-  [
-   "JavaScript",
-   171260
-  ],
-  [
-   "Python",
-   70780
-  ],
-  [
-   "GLSL",
-   2774
-  ]
- ],
+ "languages": [],
  "days": [
   [
    {
@@ -99,17 +82,17 @@
   ],
   [
    {
-    "c": 1,
+    "c": 0,
     "day": 15,
     "today": false
    },
    {
-    "c": 5,
+    "c": 2,
     "day": 16,
     "today": false
    },
    {
-    "c": 1,
+    "c": 0,
     "day": 17,
     "today": true
    },
@@ -120,20 +103,11 @@
   ]
  ],
  "streak": {
-  "current": 4,
-  "longest": 4
+  "current": 1,
+  "longest": 1
  },
  "pins": [],
  "all": [
-  {
-   "name": "my-dot-files",
-   "url": "https://github.com/kqqwxx/my-dot-files",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "QML",
-   "topics": []
-  },
   {
    "name": "kqqwxx",
    "url": "https://github.com/kqqwxx/kqqwxx",
